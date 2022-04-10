@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on data science projects.
 - 🤔 I’m looking for help with data engineering.
 - 💬 Ask me about python.
-- 📫 How to reach me: nyandiakamau@gmail.com
+- 📫 How to reach me: nyandiakamau24@gmail.com
 - 😄 Pronouns: She😆
 - ⚡ Fun fact: Umm..none :)
 
