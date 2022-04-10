@@ -1,10 +1,5 @@
 ### Hi there 👋, I'm Loice.
 
-<!--
-**psntloice/psntloice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on business analysis.
 - 🌱 I’m currently learning shell scripting, data warehousing and data engineering.
 - 👯 I’m looking to collaborate on data science projects.
@@ -16,7 +11,7 @@ Here are some ideas to get you started:
 -->
 ### Things I'm good at 🤓
 Python ofcourse :)
-<!--
+
 Domain: Data Science, Data Wrangling, Data Visualization.
 
 Languages: Python, SQL, C.
@@ -26,4 +21,4 @@ Framework: Flask.
 Libraries & Tools: NumPy, Pandas, SciPy, Matplotlib.
 
 Data Analysis: Exploratory Data Analysis, Good Statistical Foundation, Model Development & Evaluation Metrics, Quantitative Methods.
--->
+
