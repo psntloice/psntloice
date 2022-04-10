@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hi there 👋, I'm Loice.
 
 <!--
 **psntloice/psntloice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on business analysis.
+- 🌱 I’m currently learning shell scripting, data warehousing and data engineering.
+- 👯 I’m looking to collaborate on data science projects.
+- 🤔 I’m looking for help with data engineering.
+- 💬 Ask me about python.
+- 📫 How to reach me: nyandiakamau@gmail.com
+- 😄 Pronouns: She😆
+- ⚡ Fun fact: Umm..none.
 -->
+### Things I'm good at 🤓
+Python ofcourse :)
+<!--
+Domain: Data Science, Data Wrangling, Data Visualization.
+
+Languages: Python, SQL, C.
+
+Framework: Flask.
+
+Libraries & Tools: NumPy, Pandas, SciPy, Matplotlib.
+
+Data Analysis: Exploratory Data Analysis, Good Statistical Foundation, Model Development & Evaluation Metrics, Quantitative Methods.
