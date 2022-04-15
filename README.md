@@ -1,5 +1,5 @@
 ### Hi there 👋
-  ## I'm Loice. I am a ~Data Scientist~ and a Python developer with passion in the tech world.
+  ## I'm Loice. I am a Data Scientist and a Python developer with passion in the tech world.
 
 - 🌱 I’m learning on a daily basis, currently on shell and expounding on data management.
 - 🔭 I’m currently working on various analysis projects.
