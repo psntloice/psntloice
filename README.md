@@ -1,12 +1,11 @@
-### Hi there 👋, I'm Loice.
+### Hi there 👋
+  ## I'm Loice. I am a ~Data Scientist~ and a Python developer with passion in the tech world.
 
-- 🔭 I’m currently working on business analysis.
-- 🌱 I’m currently learning shell scripting, data warehousing and data engineering.
-- 👯 I’m looking to collaborate on data science projects.
-- 🤔 I’m looking for help with data engineering.
-- 💬 Ask me about python.
+- 🌱 I’m learning on a daily basis, currently on shell and expounding on data management.
+- 🔭 I’m currently working on various analysis projects.
+- I’m looking for a job that would help me grow more in either Data world or Python development field or both.
+- 💬 Ask me about python 😃 I'd be happy to help.
 - 📫 How to reach me: nyandiakamau24@gmail.com
-- 😄 Pronouns: She😆
 - ⚡ Fun fact: Umm..none :)
 
 ### Things I'm good at 🤓
@@ -23,7 +22,7 @@ Libraries & Tools: NumPy, Pandas, SciPy, Matplotlib.
 Data Analysis: Exploratory Data Analysis, Good Statistical Foundation, Model Development & Evaluation Metrics, Quantitative Methods.
 
 ## What I do
-I practise and learn so much,I just find myself wanting to know more. I took an interest in software engineering and am loving it😃.
+I just find myself wanting to know more. I took an interest in software engineering and am loving it😃.
 But my career is in data science (analysis and management).
 
 ### I can do much with:
