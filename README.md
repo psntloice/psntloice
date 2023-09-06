@@ -6,7 +6,7 @@
 - I’m looking for a job that would help me grow more in either Data world or Python development field or both.
 - 💬 Ask me about python 😃 I'd be happy to help.
 - 📫 How to reach me: nyandiakamau24@gmail.com
-- ⚡ Fun fact: Umm..none :)
+
 
 ### Things I'm good at 🤓
 @ Python ofcourse :)
@@ -23,7 +23,5 @@ Data Analysis: Exploratory Data Analysis, Good Statistical Foundation, Model Dev
 
 ## What I do
 I just find myself wanting to know more. I took an interest in software engineering and am loving it😃.
-But my career is in data science (analysis and management).
 
-### I can do much with:
-Java, php, C, C++
+
