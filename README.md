@@ -1,6 +1,6 @@
-### Hi there 👋
-  ## I'm Loice. A geek with passion ![image](https://github.com/psntloice/psntloice/assets/103282006/67e95ddc-cbba-44e6-97aa-ccb2a238cdfc)
-.
+### Hi there  ![image](https://github.com/psntloice/psntloice/assets/103282006/67e95ddc-cbba-44e6-97aa-ccb2a238cdfc)
+
+  ## I'm Loice. A developer
 
 [Website](https://psntloice.github.io/Portfolio/) |
 [Twitter](https://twitter.com/LoiceKm) |
