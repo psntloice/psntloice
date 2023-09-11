@@ -1,27 +1,27 @@
 ### Hi there 👋
-  ## I'm Loice. I am a Data Scientist and a Python developer with passion in the tech world.
+  ## I'm Loice. A developer with passion in the tech world.
 
-- 🌱 I’m learning on a daily basis, currently on shell and expounding on data management.
-- 🔭 I’m currently working on various analysis projects.
-- I’m looking for a job that would help me grow more in either Data world or Python development field or both.
-- 💬 Ask me about python 😃 I'd be happy to help.
-- 📫 How to reach me: nyandiakamau24@gmail.com
+[Website](https://psntloice.github.io/Portfolio/) |
+[Twitter](https://twitter.com/LoiceKm) |
+[Linkedin](https://www.linkedin.com/in/loice-kamau-64011027a/)
+
+### Stats
+
+![](https://github-readme-stats.vercel.app/api?username=psntloice&count_private=true&show_icons=true&theme=city_lights&hide_border=True)
+<br>
+
+### Streaks :fire:
+![](https://github-readme-streak-stats.herokuapp.com/?user=psntloice&theme=city-lights)
 
 
-### Things I'm good at 🤓
-@ Python ofcourse :)
 
-Domain: Data Science, Data Wrangling, Data Visualization.
 
-Languages: Python, SQL, R.
+### Top langs
 
-Framework: Flask and Django.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psntloice&langs_count=10&layout=compact&theme=city_lights&hide_border=True)](https://github.com/anuraghazra/github-readme-stats)
 
-Libraries & Tools: NumPy, Pandas, SciPy, Matplotlib.
+## 🎧 Currently Listening
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=afs01xhyplphr41ostl1z6cwn&cover_image=true&theme=default&bar_color_cover=true&bar_color=14d30d)](https://github.com/kittinan/spotify-github-profile)
 
-Data Analysis: Exploratory Data Analysis, Good Statistical Foundation, Model Development & Evaluation Metrics, Quantitative Methods.
-
-## What I do
-I just find myself wanting to know more. I took an interest in software engineering and am loving it😃.
 
 
