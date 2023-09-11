@@ -18,7 +18,7 @@
 
 ### Top langs
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psntloice)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psntloice&layout=compact)
 
 ## 🎧 Currently Listening
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=afs01xhyplphr41ostl1z6cwn&cover_image=true&theme=default&bar_color_cover=true&bar_color=14d30d)](https://github.com/kittinan/spotify-github-profile)
