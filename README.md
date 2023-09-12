@@ -2,7 +2,7 @@
 
   ## I'm Loice. A developer
 
-[Website](https://psntloice.github.io/Portfolio/) |
+[Website](https://psntloice.github.io/portfolio/) |
 [Twitter](https://twitter.com/LoiceKm) |
 [Linkedin](https://www.linkedin.com/in/loice-kamau-64011027a/)
 
